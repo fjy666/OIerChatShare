@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{什么是后缀数组？}{2}{0}{1}
+\beamer@sectionintoc {2}{怎么求后缀数组？}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{$O(n\qopname \relax o{log}^2n)$ 的垃圾哈希做法}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{$O(n\qopname \relax o{log}n)$ 的倍增做法}{11}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{实现}{18}{0}{2}
+\beamer@sectionintoc {3}{求了后缀数组有什么用？}{20}{0}{3}
+\beamer@subsectionintoc {3}{1}{Height 数组}{22}{0}{3}
+\beamer@subsectionintoc {3}{2}{任意两个后缀的 $\operatorname {lcp}$}{28}{0}{3}

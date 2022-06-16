@@ -1,0 +1,49 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{什么是后缀数组？}{2}{什么是后缀数组？}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {1}{0}{2}{3/5}{}{0}}
+\headcommand {\beamer@framepages {3}{5}}
+\headcommand {\beamer@sectionpages {2}{5}}
+\headcommand {\beamer@subsectionpages {2}{5}}
+\headcommand {\sectionentry {2}{怎么求后缀数组？}{6}{怎么求后缀数组？}{0}}
+\headcommand {\slideentry {2}{0}{1}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{0}{2}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{8}{$O(n\qopname \relax o{log}^2n)$ 的垃圾哈希做法}}
+\headcommand {\slideentry {2}{1}{1}{8/10}{$O(n\qopname \relax o{log}^2n)$ 的垃圾哈希做法}{0}}
+\headcommand {\beamer@framepages {8}{10}}
+\headcommand {\beamer@subsectionpages {8}{10}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{11}{$O(n\qopname \relax o{log}n)$ 的倍增做法}}
+\headcommand {\slideentry {2}{2}{1}{11/13}{$O(n\qopname \relax o{log}n)$ 的倍增做法}{0}}
+\headcommand {\beamer@framepages {11}{13}}
+\headcommand {\slideentry {2}{2}{2}{14/17}{$O(n\qopname \relax o{log}n)$ 的倍增做法}{0}}
+\headcommand {\beamer@framepages {14}{17}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{2}{1}{18}{实现}}
+\headcommand {\slideentry {2}{2}{3}{18/19}{$O(n\qopname \relax o{log}n)$ 的倍增做法}{0}}
+\headcommand {\beamer@framepages {18}{19}}
+\headcommand {\beamer@sectionpages {6}{19}}
+\headcommand {\beamer@subsectionpages {11}{19}}
+\headcommand {\sectionentry {3}{求了后缀数组有什么用？}{20}{求了后缀数组有什么用？}{0}}
+\headcommand {\slideentry {3}{0}{1}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {3}{0}{2}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionpages {20}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{22}{Height 数组}}
+\headcommand {\slideentry {3}{1}{1}{22/27}{Height 数组}{0}}
+\headcommand {\beamer@framepages {22}{27}}
+\headcommand {\beamer@subsectionpages {22}{27}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{28}{任意两个后缀的 $\operatorname {lcp}$}}
+\headcommand {\slideentry {3}{2}{1}{28/30}{任意两个后缀的 $\operatorname {lcp}$}{0}}
+\headcommand {\beamer@framepages {28}{30}}
+\headcommand {\beamer@partpages {1}{30}}
+\headcommand {\beamer@subsectionpages {28}{30}}
+\headcommand {\beamer@sectionpages {20}{30}}
+\headcommand {\beamer@documentpages {30}}
+\headcommand {\gdef \inserttotalframenumber {13}}
