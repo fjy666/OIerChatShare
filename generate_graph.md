@@ -1,0 +1,13 @@
+```dot
+digraph{
+	rankdir=LR
+	1[color=red]
+	5[color=red]
+	3[color=red]
+	0->1[label=b]
+	0->2[label=a]
+	2->3[label=b]
+	1->4[label=a]
+	4->5[label=b]
+}
+```
