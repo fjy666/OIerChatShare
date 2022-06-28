@@ -7,7 +7,7 @@ Currently there are 4 videos:
 4. 杂题选讲(1) by @lovely_ckj [link](https://www.bilibili.com/video/BV1oW4y1678v)
 
 Incoming videos:  
-5. SAM(2) by @fjy666 [预告片](https://www.bilibili.com/video/BV1A34y1s7x4)
+5. SAM(2) by @fjy666 [预告片](https://www.bilibili.com/video/BV1A34y1s7x4)  
 6. 全局平衡二叉树&LCT by @cxy2022  
 
 enjoy our videos and don`t forget to subscribe, star and like!  
