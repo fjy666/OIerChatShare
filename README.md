@@ -5,9 +5,9 @@ Currently there are 4 videos:
 2. PAM by @fjy666 [link](https://www.bilibili.com/video/BV1gW4y167L9)
 3. SAM(1) by @fjy666 [link](https://www.bilibili.com/video/BV1ZZ4y1v7i7)
 4. 杂题选讲(1) by @lovely_ckj [link](https://www.bilibili.com/video/BV1oW4y1678v)
+5. SAM(2) by @fjy666 [link](https://www.bilibili.com/video/BV1pY4y1J7Sx)
 
 Incoming videos:  
-5. SAM(2) by @fjy666 [预告片](https://www.bilibili.com/video/BV1A34y1s7x4)  
 6. 全局平衡二叉树&LCT by @cxy2022  
 
 enjoy our videos and don`t forget to subscribe, star and like!  
