@@ -1,3 +1,0 @@
-\beamer@sectionintoc {1}{介绍}{2}{0}{1}
-\beamer@sectionintoc {3}{实现}{20}{0}{2}
-\beamer@sectionintoc {4}{小结}{21}{0}{3}
